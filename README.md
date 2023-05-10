@@ -26,8 +26,9 @@ Embark on daring quests and expeditions, navigating the uncharted territories of
 
 Initiate your journey by unlocking the Java SE Code Vault. Harness the power of Git magic with a simple incantation:
 
+```
 git clone https://github.com/mahendramahara/Solving-Challenges-JAVA-SE.git
-
+```
 
 ### Expeditionary Preparations
 
