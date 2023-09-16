@@ -1,0 +1,5 @@
+1,John Doe,Jhapa,ABC College
+2,Jane Smith,Kathmandu,XYZ College
+3,Bob Johnson,Jhapa,PQR College
+4,Alice Williams,Pokhara,LMN College
+5,Charlie Brown,Jhapa,DEF College
