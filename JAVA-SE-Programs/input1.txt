@@ -1,0 +1,3 @@
+This is the content of input.txt.
+It can contain any text you want to copy.
+This text will be read and copied byte by byte.
