@@ -1,0 +1,2 @@
+Hello, this is the content of the input file.
+This is a sample text for testing character streams.
